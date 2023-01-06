@@ -49,3 +49,9 @@
 
 ### 🌱Learning
 <img src="https://img.shields.io/badge/-JPA-brightgreen?style=for-the-badge"/></a>
+
+
+# 😎About Me
+
+### 📖Blog
+<a href="https://jangjjolkit.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/장쫄깃 기술블로그-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
