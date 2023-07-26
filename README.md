@@ -50,7 +50,7 @@
 
 ### 🌱Learning
 <img src="https://img.shields.io/badge/-JPA-brightgreen?style=for-the-badge"/></a>
-
+<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/></a>
 
 # 😎About Me
 
