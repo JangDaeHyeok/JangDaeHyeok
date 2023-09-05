@@ -56,3 +56,4 @@
 
 ### 📖Blog
 <a href="https://jangjjolkit.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/장쫄깃 기술블로그-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://jangdaehyeok.notion.site/b3a2b9a3ae7c4e7498a19f0debaed825?pvs=4" target="_blank"><img src="https://img.shields.io/badge/노션 자기소개서-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
