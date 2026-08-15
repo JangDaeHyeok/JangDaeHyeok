@@ -54,5 +54,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=JangDaeHyeok&style=for-the-badge&color=2F5496&label=Profile%20Views"/>
 <img src="https://img.shields.io/github/followers/JangDaeHyeok?style=for-the-badge&logo=github&labelColor=1F3864&color=2F5496"/>
+<img src="https://img.shields.io/github/stars/JangDaeHyeok?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=1F3864&color=2F5496&label=Total%20Stars"/>
 
 </div>
